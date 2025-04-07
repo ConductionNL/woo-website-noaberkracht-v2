@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Algemeen",
+    "items": [
+      {
+        "ariaLabel": "Website",
+        "value": "www.dinkelland.nl",
+        "link": "https://www.dinkelland.nl/",
+        "icon": { "prefix": "fas", "icon": "globe", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Privacy",
+        "value": "Privacy",
+        "link": "https://www.dinkelland.nl/privacyverklaring",
+        "icon": { "prefix": "fas", "icon": "circle-exclamation", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Toegankelijkheid",
+        "value": "Toegankelijkheid",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/docs/Toegankelijkheid.md",
+        "icon": { "prefix": "fas", "icon": "user-shield", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Over deze website",
+        "value": "Over deze website",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/assets/Over%20deze%20website.md",
+        "icon": { "prefix": "fas", "icon": "circle-info", "placement": "left" }
+      }
+    ]
+  }
+]
